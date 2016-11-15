@@ -5,3 +5,10 @@ Git spurningar og svör
 	ls     Skoðar hvað er á staðnum sem að þú ert núna
 	pwd    Segir hvar staðsetningin er núna
 	mkdir  Býr til möppu
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone      "klónar" skrána
+	git log        skoðar hvað er búið að gera, skoðar history
+	git status     skoðar hvað er búið að gera
+	git diff       skoðar tvo file-a og prentar út hvað er mismunandi
+	git checkout   uppfærir file-ana þannig að þeir verði eins og á síðunni
