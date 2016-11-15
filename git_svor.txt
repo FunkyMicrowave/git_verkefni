@@ -23,3 +23,6 @@ Git spurningar og svör
 
 5.	Hverjir eru helstu kostir við að nota GIT?
     Auðvelt að vinna með einhverjum því git breytir því sem að er ekki eins í file-num sem að var að koma inn á síðuna
+    
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+    eins oft og mögulegt er, því að file-inn uppfærist í hvert skipti sem að er commitað þannig að ef að hinn aðillinn er að vinna á sama tíma þá eruð þið alltaf að uppfæra það sem að hinn aðillinn gerir
