@@ -32,3 +32,6 @@ Git spurningar og svör
     a) Á hvaða local svæði þú ert að vinna
     b) Á hvaða svæði folderarnir fara eftir að það er búið að pusha þeim
     c) Á hvaða server ert þú ert að vinna á
+    
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+    Þegar þú ert að vinna verkefnið og veist að hinn aðillinn er að vinna á sama tíma
