@@ -26,3 +26,9 @@ Git spurningar og svör
     
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
     eins oft og mögulegt er, því að file-inn uppfærist í hvert skipti sem að er commitað þannig að ef að hinn aðillinn er að vinna á sama tíma þá eruð þið alltaf að uppfæra það sem að hinn aðillinn gerir
+    
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+    a) Á hvaða local svæði þú ert að vinna
+    b) Á hvaða svæði folderarnir fara eftir að það er búið að pusha þeim
+    c) Á hvaða server ert þú ert að vinna á
