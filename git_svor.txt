@@ -20,3 +20,7 @@ Git spurningar og svör
 
 4. 	Hvað er útgáfustýring (e.version control)? 
     Fer yfir hvaða file er nýjastur með öllu uppfærðu
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+    Auðvelt að vinna með einhverjum því git breytir því sem að er ekki eins í file-num sem að var að koma inn á síðuna
+    
