@@ -1,1 +1,7 @@
 Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd     breytir hvar þú ert
+	cd ~   uppfærir þar sem að þú ert núna
+	ls     Skoðar hvað er á staðnum sem að þú ert núna
+	pwd    Segir hvar staðsetningin er núna
+	mkdir  Býr til möppu
