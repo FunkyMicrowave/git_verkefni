@@ -12,3 +12,8 @@ Git spurningar og svör
 	git status     skoðar hvað er búið að gera
 	git diff       skoðar tvo file-a og prentar út hvað er mismunandi
 	git checkout   uppfærir file-ana þannig að þeir verði eins og á síðunni
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff                    Skoðar folderinn þar sem að þú ert núna
+	b) git diff --staged           Skoðar folerinn
+	c) git diff commit1 commit2    Skoðar  file-ana sem að er skrifaðir inn
