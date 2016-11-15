@@ -18,3 +18,5 @@ Git spurningar og svör
 	b) git diff --staged           Skoðar folerinn
 	c) git diff commit1 commit2    Skoðar  file-ana sem að er skrifaðir inn
 
+4. 	Hvað er útgáfustýring (e.version control)? 
+    Fer yfir hvaða file er nýjastur með öllu uppfærðu
